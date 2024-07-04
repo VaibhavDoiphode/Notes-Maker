@@ -1,0 +1,9 @@
+const constants = {
+  ADD_NOTE: 'ADD_NOTE',
+  STORE_NOTE: 'STORE_NOTE',
+  DELETE_NOTE: 'DELETE_NOTE',
+  DELETE_SINGLE_NOTE: 'DELETE_SINGLE_NOTE',
+  UPDATE_NOTE: 'UPDATE_NOTE',
+};
+
+export default constants;
